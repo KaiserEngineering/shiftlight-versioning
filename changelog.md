@@ -1,1 +1,1 @@
-* Improve something
+* Disable power saving mode
